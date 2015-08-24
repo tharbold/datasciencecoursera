@@ -1,6 +1,5 @@
 ## This is a markdown file
-li test
-li bullets
+and these are test bullets to evaluate quiz answers:
 - or does this do it
 - or not
 * maybe this does
